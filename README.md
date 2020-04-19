@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/524ebcf5-1e41-45eb-8ee2-4fce64e87458/deploy-status)](https://app.netlify.com/sites/shopeasygroup/deploys)
